@@ -7,4 +7,4 @@ The 3 pins at the top are to allow the use of a jumper to tie the error and rese
 ![Top](Images/Top.png)
 ![Top](Images/Bottom.png)
 
-Posting this under a CC licence
+Posting under a Creative Commons Attribution, Share-Alike (BY-SA) Liscence 
